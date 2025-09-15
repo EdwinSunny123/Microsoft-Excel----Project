@@ -4,7 +4,8 @@ Developed an end-to-end Excel dashboard to analyze emergency room data, covering
 
 # 🏥 Hospital Emergency Room Dashboard
 
-![Dashboard](C:\Users\EDWIN\OneDrive\Desktop\Final_Dashboard)
+<img width="1295" height="594" alt="Screenshot 2025-09-11 190813" src="https://github.com/user-attachments/assets/f9de8003-4ebd-46cf-be91-5076fdbd4ff4" />
+
 
 ---
 
